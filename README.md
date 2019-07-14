@@ -1,5 +1,7 @@
 # Database-Web
 #xampp를 이용하여 apache, php, mysql을 연동하였습니다.
+#ER-2.png 사진은 제가 구현한 데이터베이스의 Entity-Relation Diagram 입니다.
+#RM-1.png 사진은 제가 구현한 데이터베이스의 Relational Model 입니다.
 
 사진을 포함한 모든 php파일들을 xampp1의 htdocs에 저장하시면 됩니다. 가장 기본 웹 페이지는 index.php입니다.
 mysql에서 데이터베이스의 이름은 "project"입니다.
